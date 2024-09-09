@@ -67,7 +67,7 @@ sr.reveal('.work__img',{interval: 200});
 
 $(document).ready(function(){
     var typed = new Typed(".typing",{
-        strings: ["Student","Coder","Developer","Automation Tester"],
+        strings: ["Student","Coder","Developer","Researcher"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
